@@ -13,7 +13,7 @@ server = 'adb6.database.windows.net'
 database = 'assignment1'
 username = 'axk3905'
 password = 'Password@123'
-driver = '{ODBC Driver 18 for SQL Server}'
+driver = '{ODBC Driver 17 for SQL Server}'
 
 class Main():
     cursor = ''
